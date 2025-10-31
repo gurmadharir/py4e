@@ -29,7 +29,7 @@ A big thank you to **Dr. Charles Severance (Dr. Chuck)** and the University of M
 - **Course 2 – Python Data Structures:** Lists, dictionaries, tuples, file handling, and multi-step data processing.  
 - **Course 3 – Using Python to Access Web Data:** Retrieving web data, APIs, XML, and regular expressions.  
 - **Course 4 – Using Databases with Python:** CRUD operations, database tables, SQL, and data visualization with APIs.  
-- **Course 5 – Capstone: Retrieving, Processing, and Visualizing Data with Python:** Process, analyze, and visualize real-world data; build projects.
+- **Course 5 – Capstone: Retrieving, Processing, and Visualizing Data with Python:** Process, analyze, and visualize real-world data.
 
 
 ## 🗂 Repository Structure
