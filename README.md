@@ -33,7 +33,7 @@ A big thank you to **Dr. Charles Severance (Dr. Chuck)** and the University of M
 
 
 ## 🗂 Repository Structure
-py4everybody/
+``` py4everybody/
 ├── Course 1 - Getting Started with Python/
 │   ├── Assignments/
 │   └── My Course Summary.pdf
@@ -50,5 +50,5 @@ py4everybody/
 │   ├── Assignments/
 │   └── My Course Summary.pdf
 └── README.md
-
+```
 
