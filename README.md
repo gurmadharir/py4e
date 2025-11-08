@@ -36,18 +36,22 @@ A big thank you to **Dr. Charles Severance (Dr. Chuck)** and the University of M
 ``` py4e/
 ├── Course 1 - Getting Started with Python/
 │   ├── Assignments/
+│   ├── Challenges/
 │   └── My Course Summary.pdf
 ├── Course 2 - Python Data Structures/
 │   ├── Assignments/
 │   └── My Course Summary.pdf
 ├── Course 3 - Using Python to Access Web Data/
 │   ├── Assignments/
+│   ├── Challenges/
 │   └── My Course Summary.pdf
 ├── Course 4 - Using Databases with Python/
 │   ├── Assignments/
+│   ├── Challenges/
 │   └── My Course Summary.pdf
 ├── Course 5 - Capstone: Retrieving, Processing, and Visualizing Data with Python/
 │   ├── Assignments/
+│   ├── Challenges/
 │   └── My Course Summary.pdf
 └── README.md
 ```
