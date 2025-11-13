@@ -25,7 +25,7 @@ A big thank you to **Dr. Charles Severance (Dr. Chuck)** and the University of M
 
 ## 📚 Course Structure
 
-- **Course 1 – Getting Started with Python:** Basics of Python, variables, functions, loops, & writing your first programs.  
+- **Course 1 – Getting Started with Python:** Basics of Python, variables and expressions, conditional code, functions, loops.  
 - **Course 2 – Python Data Structures:** Lists, dictionaries, tuples, file handling, and multi-step data processing.  
 - **Course 3 – Using Python to Access Web Data:** Retrieving web data, APIs, XML, and regular expressions.  
 - **Course 4 – Using Databases with Python:** CRUD operations, database tables, SQL, & data visualization with APIs.  
