@@ -1,8 +1,5 @@
 # 🐍 Python for Everybody - Coursera
 
-Welcome to my **Python for Everybody** coursework repository from **University of Michigan** on Coursera!  
-This repo contains assignments, practice problems, and notes for **Course 1: Getting Started with Python**.
-
 ## 🎯 Course 1 Overview
 
 **Course 1: Getting Started with Python** focuses on the fundamentals of programming with Python, emphasizing **control flow** and basic computational thinking.  
